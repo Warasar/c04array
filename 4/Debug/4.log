@@ -1,0 +1,7 @@
+﻿  4.cpp
+C:\Users\thest\Downloads\lab prog\lab4\4\4.cpp(34,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\thest\Downloads\lab prog\lab4\4\4.cpp(35,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\thest\Downloads\lab prog\lab4\4\4.cpp(36,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\thest\Downloads\lab prog\lab4\4\4.cpp(37,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\thest\Downloads\lab prog\lab4\4\4.cpp(14,15): warning C4101: a: неиспользованная локальная переменная
+  4.vcxproj -> C:\Users\thest\Downloads\lab prog\lab4\4\Debug\4.exe
