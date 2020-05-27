@@ -1,0 +1,7 @@
+﻿  iz4.1.cpp
+C:\Users\thest\Downloads\lab prog\lab4\iz4.1\iz4.1.cpp(21,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\thest\Downloads\lab prog\lab4\iz4.1\iz4.1.cpp(24,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\thest\Downloads\lab prog\lab4\iz4.1\iz4.1.cpp(12,23): warning C4101: y: неиспользованная локальная переменная
+C:\Users\thest\Downloads\lab prog\lab4\iz4.1\iz4.1.cpp(12,20): warning C4101: x: неиспользованная локальная переменная
+C:\Users\thest\Downloads\lab prog\lab4\iz4.1\iz4.1.cpp(12,17): warning C4101: j: неиспользованная локальная переменная
+  iz4.1.vcxproj -> C:\Users\thest\Downloads\lab prog\lab4\iz4.1\Debug\iz4.1.exe
